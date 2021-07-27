@@ -57,5 +57,5 @@ To complete this part of the assignment,you will need to do the following:
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
-![map1](Screenshiots/Humidity.png)
-![map2](Screenshiots/Hotels.png)
+![map1](Screenshots/Humidity.png)
+![map2](Screenshots/Hotels.png)
