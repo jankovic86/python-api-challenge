@@ -33,8 +33,9 @@ Your final notebook must:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-![plots](WeatherPy/Output/lat_vs_temp.png)
-
+Two examples of plots contained in the output folder.
+![plot1](WeatherPy/Output/lat_vs_temp.png)
+![plots2](WeatherPy/north_temp_linear.png)
 
 ### Part II - VacationPy
 
@@ -57,5 +58,12 @@ To complete this part of the assignment,you will need to do the following:
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+
+
+### Plots and Maps
+
+- Within the WeatherPy folder will be the Output folder containing the csv file and all of the plots gathered from the data.
+- Screenshot folder has the screenshots of the humidity map and map of hotel names added as a seperate layer. Thye will also be displayed below.
+
 ![map1](Screenshots/Humidity.png)
 ![map2](Screenshots/Hotels.png)
