@@ -35,7 +35,7 @@ Your final notebook must:
 
 Two examples of plots contained in the output folder.
 ![plot1](WeatherPy/Output/lat_vs_temp.png)
-![plots2](WeatherPy/north_temp_linear.png)
+![plots2](WeatherPy/Output/north_temp_linear.png)
 
 ### Part II - VacationPy
 
